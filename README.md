@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Milkis2022/Milkis2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Using or Learning languages
+C C++ C# F#
 
-Here are some ideas to get you started:
+Using or Learning frameworks
+.Net
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Using IDE
+Visual Studio Visual Studio Code Neovim
+
+Using things
+Windows Arch Google Chrome
+
+Postman Raspberry Pi Spotify
+
+CMake
